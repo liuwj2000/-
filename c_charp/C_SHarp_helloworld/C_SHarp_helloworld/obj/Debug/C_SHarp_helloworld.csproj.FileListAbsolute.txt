@@ -1,0 +1,10 @@
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\bin\Debug\C_SHarp_helloworld.exe.config
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\bin\Debug\C_SHarp_helloworld.exe
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\bin\Debug\C_SHarp_helloworld.pdb
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.csprojAssemblyReference.cache
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.Form1.resources
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.Properties.Resources.resources
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.csproj.GenerateResource.cache
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.exe
+C:\Users\刘帅\source\repos\C_SHarp_helloworld\C_SHarp_helloworld\obj\Debug\C_SHarp_helloworld.pdb
